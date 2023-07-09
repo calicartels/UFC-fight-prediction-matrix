@@ -1,6 +1,6 @@
 # UFC Fight Prediction Matrix
 
-![UFC Logo](https://github.com/calicartels/UFC-fight-prediction-matrix/blob/main/images/ufc_logo.png)
+![UFC Logo](icon.png)
 
 Welcome to the UFC Fight Prediction Matrix repository! This project aims to predict the outcomes of UFC fights using machine learning techniques. By analyzing various features such as fighters' statistics, historical performance, and fight characteristics, we strive to provide accurate predictions for upcoming UFC fights.
 
